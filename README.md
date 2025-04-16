@@ -132,15 +132,9 @@ Durante este desafío, ayudamos al Sr. Juan a decidir si debe cerrar alguna de l
 
 ## Referencias y Créditos
 - Challenge original de Alura Latam
-- Pandas Documentation
-- Seaborn Documentation
-- Matplotlib Documentation
-
-
-
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
   
-Seaborn Documentation
-
-Matplotlib Documentation
 
 
